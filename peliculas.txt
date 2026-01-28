@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 amadeus
+<<<<<<< HEAD
 rambo
+=======
+=======
+La vida de brian
+Monty Python and the Holy Grail
+>>>>>>> 0990f65 (añado peli MP)
+>>>>>>> 445fb413526664996a3b0f2ded7cc89a3b980b0b
