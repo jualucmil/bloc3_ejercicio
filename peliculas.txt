@@ -2,11 +2,16 @@
 amadeus
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3413688 (Añado musica.txt)
 rambo
-=======
-=======
+
+
 La vida de brian
 Monty Python and the Holy Grail
+<<<<<<< HEAD
 >>>>>>> 0990f65 (añado peli MP)
 >>>>>>> 445fb413526664996a3b0f2ded7cc89a3b980b0b
 =======
@@ -16,3 +21,7 @@ Monty Python and the Holy Grail
 
 el sentido de la vida
 >>>>>>> f88256b (añado el sentido de la vida)
+=======
+
+
+>>>>>>> 3413688 (Añado musica.txt)
