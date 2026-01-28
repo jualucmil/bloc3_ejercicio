@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 amadeus
+=======
+La vida de brian
+Monty Python and the Holy Grail
+>>>>>>> 0990f65 (añado peli MP)
